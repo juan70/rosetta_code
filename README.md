@@ -9,4 +9,5 @@ Task | Code on GitHub | Code on Rosetta
 [Search a list of records](http://rosettacode.org/wiki/Search_a_list_of_records) | [ocaml](./search_list_records/ocaml/search_listrec.ml) | [ocaml](http://rosettacode.org/wiki/Search_a_list_of_records#OCaml)
 [Reverse a string](http://rosettacode.org/wiki/Reverse_a_string) | | [ocaml](http://rosettacode.org/wiki/Reverse_a_string#OCaml) (The "Since OCaml 4.02 ..." part.)
 [Decimal floating point number to binary](http://rosettacode.org/wiki/Decimal_floating_point_number_to_binary) | [ocaml](./convert_base/ocaml/convert.ml) | [dc](http://rosettacode.org/wiki/Decimal_floating_point_number_to_binary#dc); [ocaml](http://rosettacode.org/wiki/Decimal_floating_point_number_to_binary#OCaml)
+[FASTA format](http://rosettacode.org/wiki/FASTA_format) | [ocaml](./fasta/ocaml/fasta.ml) | [ocaml](http://rosettacode.org/wiki/FASTA_format#OCaml)
 

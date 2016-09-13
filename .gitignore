@@ -9,4 +9,5 @@
 !*.md
 !*.ml
 !*.sh
+!data_task.txt
 
