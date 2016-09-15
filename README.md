@@ -10,4 +10,5 @@ Task | Code on GitHub | Code on Rosetta
 [Reverse a string](http://rosettacode.org/wiki/Reverse_a_string) | | [ocaml](http://rosettacode.org/wiki/Reverse_a_string#OCaml) (The "Since OCaml 4.02 ..." part.)
 [Decimal floating point number to binary](http://rosettacode.org/wiki/Decimal_floating_point_number_to_binary) | [ocaml](./convert_base/ocaml/convert.ml) | [dc](http://rosettacode.org/wiki/Decimal_floating_point_number_to_binary#dc); [ocaml](http://rosettacode.org/wiki/Decimal_floating_point_number_to_binary#OCaml)
 [FASTA format](http://rosettacode.org/wiki/FASTA_format) | [ocaml](./fasta/ocaml/fasta.ml) | [ocaml](http://rosettacode.org/wiki/FASTA_format#OCaml)
+[Convert seconds to compound duration](http://rosettacode.org/wiki/Convert_seconds_to_compound_duration) | [ocaml](./seconds_to_compound/ocaml/seconds.ml) | [ocaml](http://rosettacode.org/wiki/Convert_seconds_to_compound_duration#OCaml)
 
